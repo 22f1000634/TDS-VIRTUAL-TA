@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+playwright
+sentence-transformers
+numpy
+faiss-cpu
+openai 
+fastapi
+uvicorn
+tqdm
+python-dotenv
+promptfoo
